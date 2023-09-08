@@ -1,5 +1,10 @@
 #include <stdio.h>
 
+/**
+ *main - print a num pair from 00-99 but no repeats (00 01, 00 02, 00 03,...)
+ *Return: Always 0 (Success)
+ */
+
 int main(void) {
     int i, j;
 
