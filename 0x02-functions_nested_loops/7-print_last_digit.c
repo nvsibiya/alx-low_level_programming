@@ -14,7 +14,6 @@ int print_last_digit(int n)
 		last_dig = -1 * (n % 10);
 	else 
 		last_dig = (n % 10);
-	
 	_putchar('0' + last_dig);
 
 	return (last_dig);
