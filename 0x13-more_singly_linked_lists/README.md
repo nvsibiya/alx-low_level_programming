@@ -16,7 +16,10 @@ This directory contains tasks for the 0x13. C - More singly linked lists project
 + 10. Delete at index - a function that deletes the node at index index of a listint_t linked list.
 
 ## Advanced tasks
-
++ 11. Reverse list - a function that reverses a listint_t linked list.
++ 12. Print (safe version) - a function that prints a listint_t linked list.
++ 13. Free (safe version) - a function that frees a listint_t list.
++ 14. Find the loop - a function that finds the loop in a linked list.
 
 # Author
 Nomfundo Verah Sibiya
